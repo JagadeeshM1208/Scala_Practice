@@ -1,0 +1,14 @@
+{
+  "institution" : "college",
+  "name" : "ABC",
+  "students" : [
+    {
+      "name": "123",
+      "section": "C"
+    },
+    {
+      "name": "ABC",
+      "section": "D"
+    }
+  ]
+}
